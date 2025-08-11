@@ -33,73 +33,87 @@
             </div>
         </div>
     </nav>
-    <h1 class="ml-5 display-1">
-        Últimas notícias
-    </h1>
+
+    <div class="container-sm">
+        <h1 class="ml-5 display-1">
+            Últimas notícias
+        </h1>
+        <figure class="text-end">
+            <figcaption class="blockquote-footer">
+                Site feito por alguém que não sabe nada de futebol ou bootstrap...
+            </figcaption>
+        </figure>
+        <img src="../../img/sla.jpg" alt="..." class="img-fluid mb-5" style="width: 93%;">
 
 
-    <div class="container text-center">
-        <div class="row">
-            <div class="col">
-                <div class="card" style="width: 18rem;">
-                    <img src="../../img/futebas.jpg" class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <h5 class="card-title"> Futebol Insano</h5>
-                        <p class="card-text">
-                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Provident autem suscipit porro at
-                            consequatur earum praesentium optio a? Dolore quasi, neque dignissimos eligendi cum
-                            aspernatur rem eum iusto assumenda perferendis.
-                        </p>
-                        <a href="#" class="btn btn-primary"> Descubra mais...</a>
+        <div class="container text-center">
+            <div class="row">
+                <div class="col">
+                    <div class="card mb-5" style="width: 30rem;">
+                        <img src="../../img/futebas.jpg" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title"> Futebol Insano</h5>
+                            <p class="card-text">
+                                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Provident autem suscipit porro
+                                at
+                                consequatur earum praesentium optio a? Dolore quasi, neque dignissimos eligendi cum
+                                aspernatur rem eum iusto assumenda perferendis.
+                            </p>
+                            <a href="#" class="btn btn-primary"> Descubra mais...</a>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="col">
+                <div class="col">
 
-                <div class="card" style="width: 18rem;">
-                    <img src="../../img/ney.jpg" class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <h5 class="card-title"> Futebol Insano</h5>
-                        <p class="card-text">
-                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Provident autem suscipit porro at
-                            consequatur earum praesentium optio a? Dolore quasi, neque dignissimos eligendi cum
-                            aspernatur rem eum iusto assumenda perferendis.
-                        </p>
-                        <a href="#" class="btn btn-primary"> Descubra mais...</a>
+                    <div class="card" style="width: 30rem; height: auto">
+                        <img src="../../img/futebas.jpg" class="img-fluid" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title"> Futebol Insano</h5>
+                            <p class="card-text">
+                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed nostrum quia architecto ut.
+                                Dolor eum, aliquam quibusdam pariatur tempora ullam maxime, aspernatur totam consectetur
+                                quasi officiis corporis quis repellat neque.
+                            </p>
+                            <a href="#" class="btn btn-primary"> Descubra mais...</a>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="col">
-                <div class="card" style="width: 18rem;">
-                    <img src="../../img/pele.jpg" class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <h5 class="card-title"> Futebol Insano</h5>
-                        <p class="card-text">
-                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Provident autem suscipit porro at
-                            consequatur earum praesentium optio a? Dolore quasi, neque dignissimos eligendi cum
-                            aspernatur rem eum iusto assumenda perferendis.
-                        </p>
-                        <a href="#" class="btn btn-primary"> Descubra mais...</a>
+                <br>
+                <div class="col">
+                    <div class="card" style="width: 30rem;">
+                        <img src="../../img/pele.jpg" class="card-img-top" style="height: 313px width: 407px" alt="...">
+                        <div class="card-body">
+                            <h5 class="card-title"> Futebol Insano</h5>
+                            <p class="card-text">
+                                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Provident autem suscipit porro
+                                at
+                                consequatur earum praesentium optio a? Dolore quasi, neque dignissimos eligendi cum
+                                aspernatur rem eum iusto assumenda perferendis.
+                            </p>
+                            <a href="#" class="btn btn-primary"> Descubra mais...</a>
+                        </div>
                     </div>
                 </div>
-            </div>
 
-            <div class="col">
-                <div class="card" style="width: 18rem;">
-                    <img src="../../img/roges.jpg" class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <h5 class="card-title"> Futebol Insano</h5>
-                        <p class="card-text">
-                            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Provident autem suscipit porro at
-                            consequatur earum praesentium optio a? Dolore quasi, neque dignissimos eligendi cum
-                            aspernatur rem eum iusto assumenda perferendis.
-                        </p>
-                        <a href="#" class="btn btn-primary"> Descubra mais...</a>
+                <div class="col">
+                    <div class="card" style="width: 30rem;">
+                        <img src="../../img/roges.jpg" class="card-img-top" alt="..." style="height: 478px">
+                        <div class="card-body">
+                            <h5 class="card-title"> Futebol Insano</h5>
+                            <p class="card-text">
+                                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Provident autem suscipit porro
+                                at
+                                consequatur earum praesentium optio a? Dolore quasi, neque dignissimos eligendi cum
+                                aspernatur rem eum iusto assumenda perferendis.
+                            </p>
+                            <a href="#" class="btn btn-primary"> Descubra mais...</a>
+                        </div>
                     </div>
                 </div>
-            </div>
 
+            </div>
         </div>
+
     </div>
 
 </body>

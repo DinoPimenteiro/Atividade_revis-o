@@ -33,52 +33,53 @@
             </div>
         </div>
     </nav>
+    <div class="container">
+        <h1 class="display-1">
+            Tabela
+        </h1>
 
-    <h1 class="display-1">
-        Tabela
-    </h1>
+        <table class="table table-striped-columns">
+            <thead class="table-dark">
+                <td> Clube </td>
+                <td> Pontos </td>
+                <td> VIT </td>
+                <td> DER </td>
+            </thead>
+            <tbody class="table-light">
+                <tr>
+                    <td>Corinthias</td>
+                    <td> 30 </td>
+                    <td> 70 </td>
+                    <td> 70 </td>
+                </tr>
+                <tr>
+                    <td>Mirassol</td>
+                    <td> 20 </td>
+                    <td> 10 </td>
+                    <td> 2 </td>
+                </tr>
+                <tr>
+                    <td>São Paulo</td>
+                    <td> 1 </td>
+                    <td> 7 </td>
+                    <td> 7 </td>
+                </tr>
+                <tr>
+                    <td>Santos</td>
+                    <td> 9 </td>
+                    <td> 0 </td>
+                    <td> 7 </td>
+                </tr>
+                <tr>
+                    <td>Fortaleza</td>
+                    <td> 30 </td>
+                    <td> 70 </td>
+                    <td> 70 </td>
+                </tr>
 
-    <table class="table table-striped-columns">
-        <thead class="table-dark">
-            <td> Clube </td>
-            <td> Pontos </td>
-            <td> VIT </td>
-            <td> DER </td>
-        </thead>
-        <tbody class="table-light">
-            <tr>
-                <td>Corinthias</td>
-                <td> 30 </td>
-                <td> 70 </td>
-                <td> 70 </td>
-            </tr>
-            <tr>
-                <td>Mirassol</td>
-                <td> 20 </td>
-                <td> 10 </td>
-                <td> 2 </td>
-            </tr>
-            <tr>
-                <td>São Paulo</td>
-                <td> 1 </td>
-                <td> 7 </td>
-                <td> 7 </td>
-            </tr>
-            <tr>
-                <td>Santos</td>
-                <td> 9 </td>
-                <td> 0 </td>
-                <td> 7 </td>
-            </tr>
-            <tr>
-                <td>Fortaleza</td>
-                <td> 30 </td>
-                <td> 70 </td>
-                <td> 70 </td>
-            </tr>
-
-        </tbody>
-    </table>
+            </tbody>
+        </table>
+    </div>
 </body>
 
 </html>

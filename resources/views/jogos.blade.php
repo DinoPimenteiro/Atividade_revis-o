@@ -33,61 +33,71 @@
             </div>
         </div>
     </nav>
+    <br>
 
-    <div class="card text-center">
-        <div class="card-header">
-            Quartas de Final
+    <div class="container">
+        <div class="card text-center">
+            <div class="display-2">
+                Programação Oficial
+            </div>
         </div>
-        <div class="card-body">
-            <h4 class="card-title"> São Paulo X Fortaleza</h4>
-            <h5 class="card-title"> Resultado: 7x0</h5>
-            <a href="/tabela" class="btn btn-primary">Conferir tabela</a>
+        <br>
+        <div class="card text-center">
+            <div class="card-header">
+                Quartas de Final
+            </div>
+            <div class="card-body">
+                <h4 class="card-title"> São Paulo X Fortaleza</h4>
+                <h5 class="card-title"> Resultado: 7x0</h5>
+                <a href="/tabela" class="btn btn-primary">Conferir tabela</a>
+            </div>
+            <div class="card-footer text-body-secondary">
+                29/05/1888
+            </div>
         </div>
-        <div class="card-footer text-body-secondary">
-            29/05/1888
+        <br>
+        <div class="card text-center">
+            <div class="card-header">
+                Oitavas de Final
+            </div>
+            <div class="card-body">
+                <h4 class="card-title"> Mirassol X Santos</h4>
+                <h5 class="card-title"> Resultado: 6x11</h5>
+                <a href="/tabela" class="btn btn-primary">Conferir tabela</a>
+            </div>
+            <div class="card-footer text-body-secondary">
+                10/05/2000
+            </div>
         </div>
-    </div>
-    <br>
-    <div class="card text-center">
-        <div class="card-header">
-            Oitavas de Final
+        <br>
+        <div class="card text-center">
+            <div class="card-header">
+                Quartas de Final
+            </div>
+            <div class="card-body">
+                <h4 class="card-title"> Corinthias X Fortaleza</h4>
+                <h5 class="card-title"> Resultado: 4x2</h5>
+                <a href="/tabela" class="btn btn-primary">Conferir tabela</a>
+            </div>
+            <div class="card-footer text-body-secondary">
+                29/09/2025
+            </div>
         </div>
-        <div class="card-body">
-            <h4 class="card-title"> Mirassol X Santos</h4>
-            <h5 class="card-title"> Resultado: 6x11</h5>
-            <a href="/tabela" class="btn btn-primary">Conferir tabela</a>
+        <br>
+        <div class="card text-center">
+            <div class="card-header">
+                Quartas de Final
+            </div>
+            <div class="card-body">
+                <h4 class="card-title"> Mirassol X São Paulo</h4>
+                <h5 class="card-title"> Resultado: 2x2</h5>
+                <a href="/tabela" class="btn btn-primary">Conferir tabela</a>
+            </div>
+            <div class="card-footer text-body-secondary">
+                02/11/1789
+            </div>
         </div>
-        <div class="card-footer text-body-secondary">
-            10/05/2000
-        </div>
-    </div>
-    <br>
-    <div class="card text-center">
-        <div class="card-header">
-            Quartas de Final
-        </div>
-        <div class="card-body">
-            <h4 class="card-title"> Corinthias X Fortaleza</h4>
-            <h5 class="card-title"> Resultado: 4x2</h5>
-            <a href="/tabela" class="btn btn-primary">Conferir tabela</a>
-        </div>
-        <div class="card-footer text-body-secondary">
-            29/09/2025
-        </div>
-    </div>
-    <br>
-    <div class="card text-center">
-        <div class="card-header">
-            Quartas de Final
-        </div>
-        <div class="card-body">
-            <h4 class="card-title"> Mirassol X São Paulo</h4>
-            <h5 class="card-title"> Resultado: 2x2</h5>
-            <a href="/tabela" class="btn btn-primary">Conferir tabela</a>
-        </div>
-        <div class="card-footer text-body-secondary">
-            02/11/1789
-        </div>
+
     </div>
 </body>
 

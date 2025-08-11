@@ -34,29 +34,36 @@
         </div>
     </nav>
 
-    <div class="card">
-        <div class="card-header">
-            <h1> Faça seu cadastro </h1>
-        </div>
-        <div class="card-body">
-            <form class="form-control">
-                <div class="mb-3 mt-3">
-                    <label class="form-label"> Nome: </label>
-                    <input type="text" placeholder="nome..." class="form-label">
-                </div>
+    <br>
+    <div class="container">
+        <div class="card">
+            <div class="card-header">
+                <h1> Faça seu cadastro </h1>
+            </div>
+            <div class="card-body">
+                <form class="form-control">
+                    <div class="mb-3 mt-3">
+                        <label class="form-label"> Nome: </label>
+                        <input type="text" placeholder="nome..." class="form-control">
+                    </div>
 
-                <div class="mb-3">
-                    <label class="form-label"> Email: </label>
-                    <input type="email" placeholder="email" class="form-label">
-                </div>
+                    <div class="mb-3">
+                        <label class="form-label"> Email: </label>
+                        <input type="email" placeholder="email" class="form-control">
+                    </div>
 
-                <div class="mb-3">
-                    <label class="form-label"> Senha: </label>
-                    <input type="password" placeholder="senha..." class="form-label">
-                </div>
-            </form>
+                    <div class="mb-3">
+                        <label class="form-label"> Senha: </label>
+                        <input type="password" placeholder="senha..." class="form-control">
+                    </div>
+                    <button class="btn btn-success">
+                        Cadastrar
+                    </button>
+                </form>
+            </div>
         </div>
     </div>
+
 </body>
 
 </html>
